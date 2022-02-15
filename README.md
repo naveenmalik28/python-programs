@@ -1,1 +1,1 @@
-# python-programs
+Some basic python programs for beginners.
